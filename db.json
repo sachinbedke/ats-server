@@ -1,0 +1,257 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": 123,
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": 123,
+      "role": "user"
+    },
+    {
+      "name": "kate",
+      "email": "kate@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "name": "sachin",
+      "email": "sachin@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "name": "vikas",
+      "email": "vikas@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "name": "vikas",
+      "email": "vikas@gmail.com",
+      "password": "123",
+      "role": "admin",
+      "id": 6
+    },
+    {
+      "email": "shubahm@gmail.com",
+      "name": "shubham",
+      "password": "123",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "email": "shubahm@gmail.com",
+      "name": "shubham",
+      "password": "123",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "email": "shubahm@gmail.com",
+      "name": "shubham",
+      "password": "123",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "email": "shubahm@gmail.com",
+      "name": "shubham",
+      "password": "123",
+      "role": "user",
+      "id": 10
+    },
+    {
+      "email": "shubahm@gmail.com",
+      "name": "shubham",
+      "password": "123",
+      "role": "user",
+      "id": 11
+    },
+    {
+      "email": "shubahm@gmail.com",
+      "name": "shubham",
+      "password": "123",
+      "role": "user",
+      "id": 12
+    }
+  ],
+  "employers": [
+    {
+      "name": "Google",
+      "email": "google@gmail.com",
+      "password": "123",
+      "role": "employer",
+      "id": 1
+    },
+    {
+      "name": "Google",
+      "email": "google@gmail.com",
+      "password": "123",
+      "role": "employer",
+      "id": 2
+    },
+    {
+      "name": "microsoft",
+      "email": "mac@gmail.com",
+      "password": "123",
+      "role": "employer",
+      "id": 3
+    },
+    {
+      "name": "apple",
+      "email": "apple@gmail.com",
+      "password": "123",
+      "role": "employer",
+      "id": 4
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "123",
+      "role": "employer",
+      "id": 5
+    }
+  ],
+  "jobs": [
+    {
+      "title": "react dev",
+      "desc": "fake",
+      "location": "fake location",
+      "mode": "remote",
+      "type": "full-time",
+      "salary": "500000",
+      "experince": "2",
+      "skills": [
+        "javascript",
+        "react",
+        "angular",
+        "node",
+        "python",
+        "react-native"
+      ],
+      "id": 1
+    },
+    {
+      "title": "react dev",
+      "desc": "fake",
+      "location": "fake location",
+      "mode": "remote",
+      "type": "full-time",
+      "salary": "500000",
+      "experince": "2",
+      "skills": [
+        "javascript",
+        "react",
+        "angular",
+        "node",
+        "python",
+        "react-native"
+      ],
+      "id": 2
+    },
+    {
+      "title": "react dev",
+      "desc": "fake",
+      "location": "fake location",
+      "mode": "remote",
+      "type": "full-time",
+      "salary": "500000",
+      "experince": "2",
+      "skills": [
+        "javascript",
+        "react",
+        "angular",
+        "node",
+        "python",
+        "react-native"
+      ],
+      "id": 3
+    },
+    {
+      "title": "react dev",
+      "desc": "fake",
+      "location": "fake location",
+      "mode": "remote",
+      "type": "full-time",
+      "salary": "500000",
+      "experince": "2",
+      "skills": [
+        "javascript",
+        "react",
+        "angular",
+        "node",
+        "python",
+        "react-native"
+      ],
+      "id": 4
+    },
+    {
+      "title": "react dev",
+      "desc": "fake",
+      "location": "fake location",
+      "mode": "remote",
+      "type": "full-time",
+      "salary": "500000",
+      "experince": "2",
+      "skills": [
+        "javascript",
+        "react",
+        "angular",
+        "node",
+        "python",
+        "react-native"
+      ],
+      "id": 5
+    },
+    {
+      "title": "react dev",
+      "desc": "fake",
+      "location": "fake location",
+      "mode": "remote",
+      "type": "full-time",
+      "salary": "500000",
+      "experince": "2",
+      "skills": [
+        "javascript",
+        "react",
+        "angular",
+        "node",
+        "python",
+        "react-native"
+      ],
+      "id": 6
+    }
+  ],
+  "apply": [
+    {
+      "userId": 3,
+      "jobId": 1,
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "jobId": 2,
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "jobId": 2,
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "jobId": 1,
+      "id": 4
+    }
+  ]
+}
